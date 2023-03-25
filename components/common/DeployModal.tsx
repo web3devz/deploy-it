@@ -22,7 +22,7 @@ import { useState } from "react";
 const optionToLogo: any = {
   "mantle": mantleLogo,
   "5ire": fireLogo,
-  "thundercore ": thundercorelogo,
+  "thundercore": thundercorelogo,
   "xdc": xdcLogo,
   "polygon": polygonLogo,
 };
