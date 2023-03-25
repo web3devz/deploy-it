@@ -32,3 +32,6 @@ Deploy-it is a visual scripter for Solidity designed to enhance the comprehensio
 * The node system is more robust, with internal functions and modifiers included.
 * The platform supports other programming languages in addition to Solidity.
 
+## DEMO LINKS
+* https://deploy-it-theta.vercel.app/
+* https://youtu.be/ZsVbIH21YWQ
